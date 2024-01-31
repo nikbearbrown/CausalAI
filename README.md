@@ -818,13 +818,8 @@ Please cite [our survey paper](https://arxiv.org/pdf/1809.09337) if this index i
 |---|---|---|
 |TCDF: Temporal Causal Discovery Framework|[Nauta, Meike, Doina Bucur, and Christin Seifert. "Causal discovery with attention-based convolutional neural networks." Machine Learning and Knowledge Extraction.](https://www.mdpi.com/2504-4990/1/1/19)|[Pytorch](https://github.com/M-Nauta/TCDF)|
 
-# Awesome Causality
-因果资料收集
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-[![License: CC0 1.0 Universal (CC0 1.0) Public Domain Dedication](https://licensebuttons.net/l/zero/1.0/88x31.png)](https://creativecommons.org/publicdomain/zero/1.0/)
-Resources related to causality.
-This awesome list is different from other lists as it tries to compile major resources related to causality in one place under different categories. 
-**NOTE:** This awesome list is still new and under development. Please feel free to contribute, before it can become worth sharing. 
+# Awesome Causality Links
+
 - [Awesome Causality](#awesome-causality)
   * [Other Awesome lists](#other-awesome-lists)
 - [Data](#data)
@@ -936,4 +931,4 @@ or a Targeted Learning Practitioner’s Handbook](https://tlverse.org/tlverse-ha
 * [Causal Inference Reading list](https://yanirseroussi.com/causal-inference-reading-list/)
 * [Causal inference paper reading list](https://web.archive.org/web/20190312230219/https://www.reddit.com/r/MachineLearning/comments/8lti7g/d_ml_beyond_curve_fitting_introduction_to_causal/dzipydw/)
 * [American Statistics Association Causality in Statistics Education Award](https://www.amstat.org/ASA/Your-Career/Awards/Causality-in-Statistics-Education-Award.aspx)
-* 
+  
